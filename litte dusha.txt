@@ -33,7 +33,7 @@
 			 
 			  <person xml:id="07">
                          <persName>Флора</persName></person>
-			 
+			
 			  <person xml:id="08">
                          <persName>Помона</persName></person>
 			 
