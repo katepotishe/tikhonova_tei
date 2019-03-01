@@ -9,6 +9,32 @@
                 <resp>Создание TEI документа, выделение персоналий, мест</resp>
             </respStmt>
          </fileDesc>
+	 <profileDesc>      # задаем список персонажей
+             <particDesc>
+                 <listPerson type="artistical">
+                    	 <person xml:id="01">
+                         <persName>Душенька</persName>
+			  <person xml:id="02">
+                         <persName>Царица-мать</persName>
+			  <person xml:id="03">
+                         <persName>Царь-отец</persName>
+			  <person xml:id="04">
+                         <persName>Оракул</persName>
+			  <person xml:id="05">
+                         <persName>Зефир</persName>
+			  <person xml:id="06">
+                         <persName>Супруг</persName>
+			  <person xml:id="07">
+                         <persName>Флора</persName>
+			  <person xml:id="08">
+                         <persName>Помона</persName>
+                     </person>
+                     <person xml:id="02">
+                         <persName>Иван</persName>
+                     </person>
+                 </listPerson>
+              </particDesc>
+          </profileDesc>
     </teiHeader>
     <text>
        		Со всякой бранью возроптали,
