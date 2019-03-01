@@ -9,7 +9,7 @@
                 <resp>Создание TEI документа, выделение персоналий, мест</resp>
             </respStmt>
          </fileDesc>
-	 <profileDesc>      # задаем список персонажей
+	 <profileDesc>
              <particDesc>
                  <listPerson type="artistical">
                     	
