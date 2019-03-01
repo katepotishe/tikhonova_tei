@@ -12,26 +12,31 @@
 	 <profileDesc>      # задаем список персонажей
              <particDesc>
                  <listPerson type="artistical">
-                    	 <person xml:id="01">
-                         <persName>Душенька</persName>
+                    	
+			 <person xml:id="01">
+                         <persName>Душенька</persName></person>
+			 
 			  <person xml:id="02">
-                         <persName>Царица-мать</persName>
+                         <persName>Царица-мать</persName></person>
+			 
 			  <person xml:id="03">
-                         <persName>Царь-отец</persName>
+                         <persName>Царь-отец</persName></person>
+			 
 			  <person xml:id="04">
-                         <persName>Оракул</persName>
+                         <persName>Оракул</persName></person>
+			 
 			  <person xml:id="05">
-                         <persName>Зефир</persName>
+                         <persName>Зефир</persName></person>
+			 
 			  <person xml:id="06">
-                         <persName>Супруг</persName>
+                         <persName>Супруг</persName></person>
+			 
 			  <person xml:id="07">
-                         <persName>Флора</persName>
+                         <persName>Флора</persName></person>
+			 
 			  <person xml:id="08">
-                         <persName>Помона</persName>
-                     </person>
-                     <person xml:id="02">
-                         <persName>Иван</persName>
-                     </person>
+                         <persName>Помона</persName></person>
+			 
                  </listPerson>
               </particDesc>
           </profileDesc>
